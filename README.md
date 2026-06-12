@@ -1,27 +1,41 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Akshay%20Santhosh&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20%7C%20SAP%20BTP%20Developer%20%7C%20Integration%20Specialist&descAlignY=58&descSize=18" width="100%"/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Akshay%20Santhosh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20SAP%20BTP%20Developer%20%7C%20Integration%20Specialist&descAlignY=55&descSize=16" width="100%"/>
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&width=700&lines=Building+AI-Powered+Enterprise+Applications;SAP+CAP+%7C+BTP+%7C+Cloud+Foundry+Developer;LangChain+%7C+Groq+%7C+LLM+Engineer;Turning+Natural+Language+into+Business+Logic)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=false&width=800&lines=Building+AI-Powered+Enterprise+Applications+%F0%9F%9A%80;SAP+CAP+%7C+BTP+%7C+Cloud+Foundry+Developer+%E2%98%81%EF%B8%8F;LangChain+%7C+Groq+LLM+%7C+RAG+Pipeline+Engineer+%F0%9F%A4%96;Turning+Natural+Language+into+Business+Logic+%F0%9F%92%AC)](https://git.io/typing-svg)
 
-<br/>
-
-![Jain University](https://img.shields.io/badge/Jain%20University-B.Tech%20CS%20AI%20Specialization-6D28D9?style=for-the-badge&logo=graduation-cap&logoColor=white)
-![CGPA](https://img.shields.io/badge/CGPA-8.01-7C3AED?style=for-the-badge&logo=star&logoColor=white)
-![Location](https://img.shields.io/badge/Abu%20Dhabi-UAE-8B5CF6?style=for-the-badge&logo=google-maps&logoColor=white)
+</div>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🚀%20Live%20Portfolio-CV%20Screening%20App-A855F7?style=for-the-badge)](https://cv-screening-app.cfapps.us10-001.hana.ondemand.com/upload.html)
+<div align="center">
+
+![Jain University](https://img.shields.io/badge/Jain%20University-B.Tech%20CS%20%7C%20AI%20Specialization-6D28D9?style=for-the-badge&logoColor=white)
+![CGPA](https://img.shields.io/badge/CGPA-8.01%20%2F%2010-7C3AED?style=for-the-badge&logoColor=white)
+![Location](https://img.shields.io/badge/📍%20Abu%20Dhabi-UAE-8B5CF6?style=for-the-badge&logoColor=white)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🚀_Live_App-CV_Screening_App-A855F7?style=for-the-badge)](https://cv-screening-app.cfapps.us10-001.hana.ondemand.com/upload.html)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-santhosh-)
-[![Email](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaysanthosh718@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshayy718)
+[![Email](https://img.shields.io/badge/Gmail-akshaysanthosh718-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaysanthosh718@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-akshayy718-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshayy718)
+
+</div>
 
 <br/>
+
+<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=akshayy718&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/akshayy718?style=for-the-badge&color=A855F7&labelColor=1e1e2e&label=FOLLOWERS)
-![GitHub User's stars](https://img.shields.io/github/stars/akshayy718?style=for-the-badge&color=6D28D9&labelColor=1e1e2e&label=STARS)
+![Followers](https://img.shields.io/github/followers/akshayy718?style=for-the-badge&color=A855F7&labelColor=0D1117&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/akshayy718?style=for-the-badge&color=6D28D9&labelColor=0D1117&label=TOTAL+STARS)
 
 </div>
 
@@ -29,20 +43,21 @@
 
 ## 🧠 About Me
 
-```yaml
-name         : Akshay Santhosh
-location     : Abu Dhabi, UAE
-education    : B.Tech Computer Science (AI Specialization) — Jain University, Bengaluru
-current_role : IT Assistant & Platform Admin @ Ramah General Contracting & Transport LLC
-```
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=akshayy718&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D1117&border_color=7C3AED&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9&hide_border=false"/>
 
-I am an **AI/ML Engineer** and **SAP BTP Developer** with a strong foundation in building intelligent, enterprise-grade applications. My work sits at the intersection of **Large Language Models**, **Cloud Application Programming**, and **Systems Integration** — turning complex business problems into clean, deployable solutions.
+AI/ML Engineer and Computer Science graduate with hands-on experience building **production-grade LLM-powered applications**, ML models, and enterprise workflow automations.
 
-I specialize in designing **AI-powered workflows** using LangChain and Groq's LLM APIs, building **OData services and Fiori UIs** with SAP CAP on BTP Cloud Foundry, and architecting **integration pipelines** between enterprise platforms like SAP SuccessFactors and Sage X3 via n8n automation.
+- 🤖 Built a **Natural Language SQL Chatbot** integrating Groq's Llama 3.3 70B, LangChain, and RAG on a live SQL Server backend — achieving **91% semantic SQL accuracy** across 500+ test queries
+- ⚙️ Engineered an **end-to-end GL Entry Approval automation** connecting SAP SuccessFactors and Sage X3 via n8n Cloud with OAuth 2.0, audit logging, and error handling for 15+ failure scenarios
+- 🚀 Deployed an **AI-powered CV Screening App** on SAP BTP using SAP CAP, Fiori Elements, Node.js and Groq AI — live on Cloud Foundry
+- 📊 Building a **Universal AI Data Dashboard** (Streamlit + Plotly + Groq) supporting any file format with natural language data querying
+- 💡 Passionate about building AI systems that **solve real business problems at scale**
 
-Beyond enterprise tooling, my background spans **Computer Vision** (YOLOv10, SegFormer, SAM), **Time Series Forecasting** (PatchTST, LSTM, ARIMA), and **full-stack development** — giving me the range to work across the entire AI product lifecycle from data ingestion to production deployment.
+<br/>
 
 **🔍 Open To:** AI/ML Engineer · SAP BTP/CAP Developer · Integration Engineer · Full Stack Developer (AI-focused)
+
+<br clear="right"/>
 
 ---
 
@@ -50,41 +65,46 @@ Beyond enterprise tooling, my background spans **Computer Vision** (YOLOv10, Seg
 
 <div align="center">
 
-### Languages
-[![My Skills](https://skillicons.dev/icons?i=python,js,ts,sql&theme=dark)](https://skillicons.dev)
+### ⚡ Languages
+[![Skills](https://skillicons.dev/icons?i=python,js,ts,sql&theme=dark)](https://skillicons.dev)
 
-### Frontend & UI
-[![My Skills](https://skillicons.dev/icons?i=react,html,css,figma&theme=dark)](https://skillicons.dev)
+### 🎨 Frontend & UI
+[![Skills](https://skillicons.dev/icons?i=react,html,css,figma&theme=dark)](https://skillicons.dev)
 
-### Backend & Databases
-[![My Skills](https://skillicons.dev/icons?i=nodejs,fastapi,sqlite,postgres&theme=dark)](https://skillicons.dev)
+### 🔧 Backend & Databases
+[![Skills](https://skillicons.dev/icons?i=nodejs,fastapi,sqlite,postgres&theme=dark)](https://skillicons.dev)
 
-### Cloud, DevOps & Tooling
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,linux&theme=dark)](https://skillicons.dev)
+### ☁️ Cloud, DevOps & Tooling
+[![Skills](https://skillicons.dev/icons?i=aws,azure,git,github,docker,linux&theme=dark)](https://skillicons.dev)
 
-### AI / ML Frameworks
-[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark)](https://skillicons.dev)
+### 🤖 AI / ML Frameworks
+[![Skills](https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark)](https://skillicons.dev)
 
 </div>
+
+<br/>
 
 <div align="center">
 
 ![SAP CAP](https://img.shields.io/badge/SAP%20CAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 ![SAP BTP](https://img.shields.io/badge/SAP%20BTP-0070F2?style=flat-square&logo=sap&logoColor=white)
 ![SAP Fiori](https://img.shields.io/badge/SAP%20Fiori-009FDA?style=flat-square&logo=sap&logoColor=white)
+![CDS](https://img.shields.io/badge/CDS-Core%20Data%20Services-005FCE?style=flat-square&logo=sap&logoColor=white)
+![OData](https://img.shields.io/badge/OData%20v4-E8145A?style=flat-square)
+![Cloud Foundry](https://img.shields.io/badge/Cloud%20Foundry-0C9ED5?style=flat-square&logo=cloud-foundry&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq%20AI-F55036?style=flat-square&logo=groq&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq%20AI-F55036?style=flat-square&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-412991?style=flat-square&logo=meta&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
-![OData](https://img.shields.io/badge/OData-E8145A?style=flat-square)
-![Cloud Foundry](https://img.shields.io/badge/Cloud%20Foundry-0C9ED5?style=flat-square&logo=cloud-foundry&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square)
+![PyODBC](https://img.shields.io/badge/PyODBC-003B57?style=flat-square)
 
 </div>
 
@@ -92,17 +112,17 @@ Beyond enterprise tooling, my background spans **Computer Vision** (YOLOv10, Seg
 
 ## 🤖 AI / ML Expertise
 
-| Domain | Proficiency | Details |
-|--------|-------------|---------|
-| **LLM Engineering** | ⭐⭐⭐⭐⭐ | Groq API, LangChain, Llama 3.3 70B, prompt engineering, structured output |
-| **RAG Pipelines** | ⭐⭐⭐⭐⭐ | FAISS, ChromaDB, Pinecone, Weaviate, ingestion/indexing/retrieval |
-| **AI Agents** | ⭐⭐⭐⭐ | Tool-use agents, SQL agents, LangChain agent executor |
-| **Data Visualization** | ⭐⭐⭐⭐⭐ | Streamlit, Plotly, auto-chart generation, KPI detection |
-| **Computer Vision** | ⭐⭐⭐⭐ | YOLOv10, SegFormer, SAM, object detection, semantic segmentation |
-| **Time Series** | ⭐⭐⭐⭐ | PatchTST, LSTM, ARIMA, forecasting, anomaly detection |
-| **ML Ops** | ⭐⭐⭐ | MLflow experiment tracking, model versioning, FastAPI serving |
-| **Fine-Tuning** | ⭐⭐⭐ | QLoRA, PEFT, Hugging Face Transformers |
-| **Workflow Automation** | ⭐⭐⭐⭐ | n8n Cloud, REST/OData integrations, human-in-the-loop pipelines |
+| Domain | Proficiency | Key Tools & Details |
+|--------|:-----------:|---------------------|
+| **LLM Engineering** | ⭐⭐⭐⭐⭐ | Groq API · LangChain · Llama 3.3 70B · Prompt Engineering · Chain-of-Thought |
+| **RAG Pipelines** | ⭐⭐⭐⭐⭐ | FAISS · ChromaDB · Pinecone · Weaviate · Schema-Injected Context |
+| **AI Agents** | ⭐⭐⭐⭐ | SQL Agent · Tool-Use Agents · LangChain Agent Executor |
+| **Data Visualization** | ⭐⭐⭐⭐⭐ | Streamlit · Plotly · Auto-Chart Generation · KPI Detection |
+| **Computer Vision** | ⭐⭐⭐⭐ | YOLOv10 · SegFormer · SAM · Object Detection · Semantic Segmentation |
+| **Time Series** | ⭐⭐⭐⭐ | PatchTST · LSTM · ARIMA · Forecasting · Anomaly Detection |
+| **Fine-Tuning** | ⭐⭐⭐ | QLoRA · PEFT · Hugging Face Transformers |
+| **ML Ops** | ⭐⭐⭐ | MLflow · Experiment Tracking · Model Versioning · FastAPI Serving |
+| **Workflow Automation** | ⭐⭐⭐⭐ | n8n Cloud · OData · REST APIs · OAuth 2.0 · Human-in-the-Loop |
 
 ---
 
@@ -110,84 +130,92 @@ Beyond enterprise tooling, my background spans **Computer Vision** (YOLOv10, Seg
 
 <details>
 <summary><b>📊 Universal AI Data Dashboard — Streamlit + Groq + Plotly</b></summary>
-
 <br/>
 
-A fully universal, AI-powered data analytics dashboard that accepts **any file format** — Excel, CSV, PDF, or Word — and automatically generates visual insights without any hardcoding. Powered by **Groq's Llama 3.3 70B** for natural language data analysis, with an intelligent chat interface that lets users ask questions about their own data in plain English.
+A fully universal, AI-powered data analytics dashboard that accepts **any file format** — Excel, CSV, PDF, or Word — and automatically generates visual insights without hardcoding. Powered by **Groq's Llama 3.3 70B** for natural language data analysis with an intelligent chat interface.
 
 | Attribute | Details |
 |-----------|---------|
 | **Stack** | Python · Streamlit · Pandas · Plotly · Groq AI · pdfplumber · python-docx |
-| **AI Model** | Groq llama-3.3-70b-versatile (summary-based, token-efficient) |
-| **File Support** | Excel (.xlsx/.xls) · CSV · PDF · Word (.docx) |
-| **Intelligence** | Auto-detects column types, KPIs, trends, and overdue items |
-| **AI Chat** | Ask natural language questions about any uploaded dataset |
-| **Security** | User-supplied Groq API key via sidebar — no hardcoded secrets |
-| **Scale** | Handles 10,000+ row datasets via Pandas summarization before LLM |
-| **Impact** | Universal tool — works for any industry, any data, any team |
+| **AI Model** | Groq llama-3.3-70b-versatile (token-efficient summary-based architecture) |
+| **File Support** | Excel (.xlsx / .xls) · CSV · PDF · Word (.docx) |
+| **Scale** | Handles 10,000+ row datasets via Pandas summarization before LLM call |
+| **Intelligence** | Auto-detects column types, KPIs, date trends, overdue items |
+| **Security** | User-supplied Groq API key via sidebar — zero hardcoded secrets |
+| **Impact** | Universal tool — any industry, any dataset, any team |
 | **Repository** | [github.com/akshayy718/universal-ai-dashboard](https://github.com/akshayy718/universal-ai-dashboard) |
 
-Built as a general-purpose AI analytics tool — demonstrates smart token management (Pandas summarizes data before Groq sees it), automatic chart generation, KPI detection, and a clean Streamlit product experience.
+Smart token management architecture: Pandas computes a statistical summary first, then only the summary (~300 tokens) is passed to Groq — enabling AI-powered analysis even on 100,000-row files without hitting token limits.
 
 </details>
 
 <details>
-<summary><b>🤖 AI-Powered CV Screening App — SAP CAP + Fiori + Groq</b></summary>
-
+<summary><b>🤖 AI-Powered CV Screening App — SAP CAP + Fiori + Groq (Live on BTP)</b></summary>
 <br/>
 
-An enterprise-grade CV screening application built on **SAP Business Application Programming Model (CAP)**, deployed to **SAP BTP Cloud Foundry**. The system accepts PDF, DOCX, and TXT uploads, extracts structured candidate data using **Groq's Llama 3.3 70B**, and presents results through a **SAP Fiori Elements UI** with List Report and Object Page patterns.
+Enterprise-grade CV screening application built on **SAP CAP**, deployed live to **SAP BTP Cloud Foundry**. Accepts PDF, DOCX, and TXT uploads, extracts structured candidate data using **Groq Llama 3.3 70B** via a two-stage AI pipeline, and presents results through **SAP Fiori Elements UI** (List Report + Object Page).
 
 | Attribute | Details |
 |-----------|---------|
 | **Stack** | SAP CAP · SAP Fiori Elements · Node.js · Groq AI · SQLite · Cloud Foundry |
-| **AI Model** | Groq llama-3.3-70b-versatile |
-| **Deployment** | SAP BTP Cloud Foundry (us10 region) — live in production |
+| **AI Pipeline** | Stage 1: Structured JSON extraction → Stage 2: Professional AI summary generation |
 | **API** | OData v4 via CDS service definition |
-| **Security** | Environment-variable API key management, `.gitignore` secrets |
-| **Impact** | End-to-end AI integration on enterprise SAP platform from scratch |
+| **Deployment** | SAP BTP Cloud Foundry — us10 region — live in production |
+| **Performance** | Extracts name, email, skills, experience, and role fit from any CV format |
+| **Security** | CF environment variable secrets — no hardcoded API keys |
 | **Repository** | [github.com/akshayy718/cv-screening-app](https://github.com/akshayy718/cv-screening-app) |
 | **Live Demo** | [cv-screening-app.cfapps.us10-001.hana.ondemand.com](https://cv-screening-app.cfapps.us10-001.hana.ondemand.com/upload.html) |
-
-Built as a take-home assignment for an SAP consulting interview — demonstrating full-cycle SAP BTP development: CDS modelling, OData service exposure, Fiori UI annotations, Groq AI integration via `node-fetch`, and Cloud Foundry deployment with `cf push`.
 
 </details>
 
 <details>
 <summary><b>💬 Natural Language SQL Chatbot — LangChain + Groq + MS SQL Server</b></summary>
-
 <br/>
 
-A production-style AI chatbot that converts natural language business questions into validated SQL queries against a **Microsoft SQL Server** Northwind ERP database. Powered by **LangChain's SQL Agent** architecture with **Groq Llama 3.3 70B** as the reasoning engine, served through a **Gradio** web interface.
+Production-style AI chatbot converting natural language business questions into validated SQL queries against a **Microsoft SQL Server** Northwind ERP database. Achieved **91% semantic SQL accuracy** across 500+ test queries through systematic prompt engineering.
 
 | Attribute | Details |
 |-----------|---------|
-| **Stack** | Python · LangChain · Groq API · MS SQL Server · SQLAlchemy · Gradio |
+| **Stack** | Python · LangChain · Groq API · MS SQL Server · SQLAlchemy · PyODBC · Gradio |
 | **AI Model** | Groq llama-3.3-70b-versatile via LangChain SQL Agent |
-| **Database** | Microsoft SQL Server Express (Northwind ERP dataset) |
-| **Safety** | Read-only SELECT enforcement, no destructive query execution |
-| **Fallback** | Automatic SQLite demo mode when SQL Server unavailable |
-| **Impact** | Bridges natural language and structured enterprise data for non-technical users |
+| **RAG** | Schema-injected context (table names, columns, foreign keys) into prompt |
+| **Accuracy** | 91% semantic SQL accuracy · complex query accuracy improved from 76% → 89% |
+| **Performance** | Query latency reduced from 2.3s → 0.8s after index optimization |
+| **Safety** | Read-only SELECT enforcement — zero destructive query execution |
+| **Prompt Eng.** | 25+ systematic variations · chain-of-thought prompting · 500+ test queries |
 | **Repository** | [github.com/akshayy718/northwind-chatbot](https://github.com/akshayy718/northwind-chatbot) |
-
-Demonstrates deep understanding of LangChain agent patterns, SQL schema introspection, and the distinction between RAG retrieval and SQL Agent query-generation architectures.
 
 </details>
 
 <details>
 <summary><b>⚙️ GL Entry Approval Automation — SAP SuccessFactors × Sage X3 via n8n</b></summary>
-
 <br/>
 
-An enterprise **workflow automation pipeline** built on **n8n Cloud** that integrates SAP SuccessFactors (OData GET) with Sage X3 (REST POST) via an **email-based human-in-the-loop approval step**. The workflow intercepts General Ledger entries, routes them for manager approval via email triggers, and conditionally posts approved entries to Sage X3.
+Enterprise workflow automation pipeline on **n8n Cloud** integrating SAP SuccessFactors (OData GET) with Sage X3 (REST POST) via an **email-based human-in-the-loop approval step** with full audit logging and OAuth 2.0 security.
 
 | Attribute | Details |
 |-----------|---------|
-| **Stack** | n8n Cloud · SAP SuccessFactors OData API · Sage X3 REST API · Email Webhooks |
-| **Pattern** | Event-driven · Human-in-the-loop · Conditional branching |
-| **Integration** | Cross-platform ERP bridge (SAP ↔ Sage X3) |
-| **Trigger** | Email approval response webhook |
-| **Impact** | Eliminates manual GL entry routing across two separate ERP systems |
+| **Stack** | n8n Cloud · SAP SuccessFactors OData API · Sage X3 REST API · Gmail API · OAuth 2.0 |
+| **Pattern** | Event-driven · Human-in-the-loop · Multi-day state machine with escalation logic |
+| **Mapping** | 20+ SAP GL fields → Sage X3 journal entry schema (tax codes, contra-account logic) |
+| **Reliability** | Error handling for 15+ failure scenarios · exponential backoff retry |
+| **Compliance** | Full audit logging: approver identity, timestamp, GL details, financial impact |
+| **Impact** | Eliminates manual GL entry routing bottlenecks across two separate ERP systems |
+
+</details>
+
+<details>
+<summary><b>📱 Mobile Device for Impaired Persons — Computer Vision + NLP</b></summary>
+<br/>
+
+Smart Android device for visually, hearing, and speech-impaired users combining real-time object detection, NLP sign interpretation, and emotion-based voice synthesis.
+
+| Attribute | Details |
+|-----------|---------|
+| **Stack** | Python · Microsoft Kinect · PCA · Viterbi Search · Android |
+| **Features** | Navigation Detection · Speech Recognition · Face Gesture Recognition |
+| **AI** | Real-time object detection · NLP sign language interpretation · emotion-based TTS |
+| **Impact** | Accessibility tool serving multi-impairment users in a single unified device |
 
 </details>
 
@@ -196,46 +224,48 @@ An enterprise **workflow automation pipeline** built on **n8n Cloud** that integ
 ## 💼 Experience
 
 ### IT Assistant & Platform Administrator
-**Ramah General Contracting & Transport LLC** · Abu Dhabi, UAE · *2024 – Present*
+**Ramah General Contracting & Transport LLC** · Abu Dhabi, UAE · *April 2026 – Present*
 
-Leading IT operations and digital platform administration for a UAE-based heavy infrastructure contractor, while independently building AI and integration tooling to modernise internal workflows.
+Providing IT support and system coordination for a leading UAE heavy infrastructure and earthworks contractor with **1,300+ employees** and a **2.5B+ AED project portfolio** — while independently architecting AI and automation solutions to modernise internal workflows.
 
-- Administer the **Asite construction project management platform** — managing user access, document workflows, and project data for active infrastructure contracts
-- Provide end-to-end **IT support** across hardware, software, and network infrastructure
-- Architect an **n8n-based GL Entry Approval automation** integrating SAP SuccessFactors with Sage X3, reducing manual finance workflow steps
-- Build internal tooling using **Python and REST APIs** to automate repetitive operational tasks
+- Administering **Asite** (construction project management platform) to maintain structured records of site work report forms, daily progress reports, and field documentation across active construction projects
+- Developed a proof-of-concept **Natural Language SQL Chatbot** (LangChain, Groq Llama 3.3 70B, MS SQL Server) to demonstrate AI-driven data querying for operational reporting use cases
+- Architecting an **n8n-based GL Entry Approval automation** connecting SAP SuccessFactors with Sage X3, eliminating manual finance workflow bottlenecks
+- Supporting day-to-day IT operations including **user access management**, software troubleshooting, and coordination between site teams and management
 
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![Asite](https://img.shields.io/badge/Asite-Platform%20Admin-6D28D9?style=flat-square)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![IT Support](https://img.shields.io/badge/IT%20Support-6D28D9?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 
 ---
 
 ### AI / ML Engineer Intern
-**Corizo** · *2023 – 2024*
+**Corizo** · Bengaluru, India · *January 2024 – July 2024*
 
-- Developed and trained computer vision models using **YOLOv10** and **SegFormer** for object detection and semantic segmentation tasks
-- Built time series forecasting pipelines with **PatchTST** and **LSTM** architectures
-- Delivered a **Cardiovascular Disease Prediction** ML project using ensemble classifiers with MLflow experiment tracking
+- Built **Cardiovascular Disease Prediction Model** using TensorFlow and Scikit-learn with ensemble classifiers and MLflow experiment tracking
+- Gained hands-on experience in Python, ML frameworks, and iterative AI model development workflows
+- Trained computer vision models including **YOLOv10** and **SegFormer** for object detection and semantic segmentation
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 ---
 
-### Full Stack Developer (Freelance)
-**Quantum Gully** · *2022 – Present*
+### Full Stack Developer — Freelance
+**Quantum Gully** · *2022 – 2024*
 
-- Delivered client web projects end-to-end using **React**, **FastAPI**, and **Python** backends
+- Developed responsive landing pages and web applications for multiple businesses, handling **end-to-end client communication and delivery**
 - Built the **RGCT Careers subpage** on Wix Studio with CV upload functionality and dark-theme enterprise design
 - Developed a **Car Price Prediction Flask App** with ML model inference and REST API exposure
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
@@ -243,15 +273,15 @@ Leading IT operations and digital platform administration for a UAE-based heavy 
 
 <div align="center">
 
-| Recognition | Details |
-|-------------|---------|
-| 🎓 **B.Tech CGPA 8.01** | Computer Science — AI Specialization, Jain University Bengaluru |
-| 🚀 **BTP Cloud Foundry Deployment** | Independently deployed SAP CAP app to production BTP CF environment |
-| 🤖 **End-to-End LLM Integration** | Built & shipped Groq + LangChain AI apps from scratch |
-| 🔗 **Cross-Platform ERP Integration** | SAP SuccessFactors ↔ Sage X3 automation via n8n |
-| 🌐 **Live Portfolio App** | Publicly accessible AI app hosted on SAP's enterprise cloud |
-| 📊 **Universal AI Dashboard** | AI-powered analytics tool supporting any file type and any dataset |
-| 📐 **Multi-Domain AI Portfolio** | Computer Vision · Time Series · NLP · RAG · Agents · Data Viz |
+| 🏅 Recognition | 📋 Details |
+|----------------|-----------|
+| 🎓 **B.Tech CGPA 8.01** | Computer Science — AI Specialization · Jain University Bengaluru |
+| 🚀 **SAP BTP Cloud Foundry Deployment** | Independently deployed SAP CAP app to live production environment |
+| 🤖 **91% SQL Accuracy** | LangChain + Groq SQL chatbot across 500+ test queries via chain-of-thought prompting |
+| ⚙️ **15+ Failure Scenarios Handled** | Robust error handling in n8n GL automation with exponential backoff retry |
+| 🔗 **Cross-Platform ERP Integration** | SAP SuccessFactors ↔ Sage X3 via n8n Cloud with OAuth 2.0 audit trail |
+| 📊 **Universal AI Dashboard** | AI analytics tool supporting Excel · CSV · PDF · Word for any industry |
+| 📐 **Multi-Domain AI Portfolio** | Computer Vision · Time Series · NLP · RAG · Agents · Data Viz · SAP |
 
 </div>
 
@@ -261,10 +291,12 @@ Leading IT operations and digital platform administration for a UAE-based heavy 
 
 <div align="center">
 
-### Udemy
+### 🎓 Udemy
+![Python](https://img.shields.io/badge/Udemy-Python%20Course%20Certification-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
+![LLM](https://img.shields.io/badge/Udemy-AI%20Engineer%20Core%20Track%3A%20LLM%20%7C%20RAG%20%7C%20QLoRA%20%7C%20Agents-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
 
-![Python ML](https://img.shields.io/badge/Udemy-Python%20%26%20Machine%20Learning-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
-![LLM Engineering](https://img.shields.io/badge/Udemy-AI%20Engineer%20Core%20Track%3A%20LLM%20%7C%20RAG%20%7C%20QLoRA%20%7C%20Agents-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
+### 🏢 Corizo
+![Corizo](https://img.shields.io/badge/Corizo-Artificial%20Intelligence%20Certification-7C3AED?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -275,14 +307,13 @@ Leading IT operations and digital platform administration for a UAE-based heavy 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akshayy718&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D1117&border_color=7C3AED&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9"/>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayy718&layout=compact&langs_count=8&theme=tokyonight&bg_color=0D1117&border_color=7C3AED&title_color=A855F7&text_color=C9D1D9"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshayy718&theme=tokyonight&background=0D1117&border=7C3AED&stroke=7C3AED&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=akshayy718&theme=tokyonight&background=0D1117&border=7C3AED&stroke=7C3AED&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=8B949E"/>
 
 </div>
 
@@ -292,7 +323,7 @@ Leading IT operations and digital platform administration for a UAE-based heavy 
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=akshayy718&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=akshayy718&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -302,7 +333,7 @@ Leading IT operations and digital platform administration for a UAE-based heavy 
 
 <div align="center">
 
-[![Akshay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akshayy718&bg_color=0D1117&color=A855F7&line=7C3AED&point=8B5CF6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Akshay's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akshayy718&bg_color=0D1117&color=A855F7&line=7C3AED&point=8B5CF6&area=true&area_color=6D28D9&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -313,9 +344,9 @@ Leading IT operations and digital platform administration for a UAE-based heavy 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshayy718/akshayy718/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akshayy718/akshayy718/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/akshayy718/akshayy718/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshayy718/akshayy718/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akshayy718/akshayy718/output/github-snake.svg"/>
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/akshayy718/akshayy718/output/github-snake.svg"/>
 </picture>
 
 </div>
@@ -327,37 +358,37 @@ Leading IT operations and digital platform administration for a UAE-based heavy 
 ```yaml
 current_focus:
   learning:
-    - SAP BTP Advanced: XSUAA authentication, SAP HANA Cloud, MTA deployment
-    - LLM Engineering: fine-tuning with QLoRA, RAG pipeline optimization
-    - n8n: advanced workflow patterns and webhook orchestration
+    - SAP BTP Advanced: XSUAA auth · SAP HANA Cloud · MTA deployment
+    - LLM Engineering: QLoRA fine-tuning · RAG pipeline optimization
+    - n8n: advanced webhook orchestration · complex branching workflows
 
   building:
-    - Universal AI Data Dashboard (Streamlit + Groq + Plotly)
-    - AI-powered CV Screening App on SAP CAP + Fiori (BTP deployed)
-    - GL Entry Approval Automation (SAP SuccessFactors × Sage X3)
+    - Universal AI Data Dashboard  →  Streamlit + Groq + Plotly
+    - AI-powered CV Screening App  →  SAP CAP + Fiori (live on BTP CF)
+    - GL Entry Approval Automation →  SAP SuccessFactors × Sage X3
 
   exploring:
-    - Agentic AI patterns (tool-use, multi-step reasoning)
+    - Agentic AI patterns (tool-use · multi-step reasoning · memory)
     - SAP Integration Suite and BTP connectivity services
     - Vector database architectures for enterprise knowledge retrieval
 
   open_to:
-    - AI/ML Engineer roles (UAE · India · Remote)
-    - SAP BTP / CAP Developer positions
-    - Integration Engineer roles (SAP · ERP · API)
-    - Full Stack Developer (AI-focused applications)
+    - AI/ML Engineer          →  UAE · India · Remote
+    - SAP BTP / CAP Developer →  UAE · India · Remote
+    - Integration Engineer    →  SAP · ERP · API platforms
+    - Full Stack Developer    →  AI-focused product engineering
 ```
 
 ---
 
-## 🤝 Connect
+## 🤝 Connect With Me
 
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-akshaysanthosh718%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaysanthosh718@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshay%20Santhosh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-santhosh-)
 [![GitHub](https://img.shields.io/badge/GitHub-akshayy718-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshayy718)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20App-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://cv-screening-app.cfapps.us10-001.hana.ondemand.com/upload.html)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20CV%20App-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://cv-screening-app.cfapps.us10-001.hana.ondemand.com/upload.html)
 
 </div>
 
@@ -367,6 +398,8 @@ current_focus:
 
 *"The best engineers don't just write code — they architect solutions that outlive the problem."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&animation=twinkling" width="100%"/>
 
 </div>
