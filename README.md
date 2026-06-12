@@ -12,7 +12,7 @@
 
 <div align="center">
 
-![Jain University](https://img.shields.io/badge/Jain%20University-B.Tech%20CS%20%7C%20AI%20Specialization-6D28D9?style=for-the-badge&logoColor=white)
+[![Jain University](https://img.shields.io/badge/Jain%20University-B.Tech%20CS%20%7C%20AI%20Specialization-6D28D9?style=for-the-badge&logoColor=white)](https://www.jainuniversity.ac.in/)
 ![CGPA](https://img.shields.io/badge/CGPA-8.01%20%2F%2010-7C3AED?style=for-the-badge&logoColor=white)
 ![Location](https://img.shields.io/badge/📍%20Abu%20Dhabi-UAE-8B5CF6?style=for-the-badge&logoColor=white)
 
@@ -23,7 +23,7 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🚀_Live_App-CV_Screening_App-A855F7?style=for-the-badge)](https://cv-screening-app.cfapps.us10-001.hana.ondemand.com/upload.html)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-santhosh-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-santhosh-435499208)
 [![Email](https://img.shields.io/badge/Gmail-akshaysanthosh718-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaysanthosh718@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-akshayy718-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshayy718)
 
@@ -386,7 +386,7 @@ current_focus:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-akshaysanthosh718%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaysanthosh718@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshay%20Santhosh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-santhosh-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshay%20Santhosh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-santhosh-435499208)
 [![GitHub](https://img.shields.io/badge/GitHub-akshayy718-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshayy718)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live%20CV%20App-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://cv-screening-app.cfapps.us10-001.hana.ondemand.com/upload.html)
 
