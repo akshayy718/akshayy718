@@ -1,421 +1,405 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Akshay%20Santhosh&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20%7C%20SAP%20BTP%20Developer%20%7C%20Integration%20Specialist&descAlignY=58&descSize=18" width="100%"/>
+</div>
 
-# Anantha Vishnu
+<div align="center">
 
-### Data & AI Analyst &nbsp;|&nbsp; Python &nbsp;|&nbsp; SQL &nbsp;|&nbsp; Power BI &nbsp;|&nbsp; NLP
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=false&width=800&lines=Building+AI-Powered+Enterprise+Applications+%F0%9F%9A%80;SAP+CAP+%7C+BTP+%7C+Cloud+Foundry+Developer+%E2%98%81%EF%B8%8F;LangChain+%7C+Groq+LLM+%7C+RAG+Pipeline+Engineer+%F0%9F%A4%96;Turning+Natural+Language+into+Business+Logic+%F0%9F%92%AC)](https://git.io/typing-svg)
 
 </div>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Data+%26+AI+Analyst+%7C+Python+%2B+SQL+%2B+Power+BI;NLP+%7C+Machine+Learning+%7C+EDA+Specialist;Building+Scalable+Data+Pipelines+%26+Dashboards;Transforming+Raw+Data+into+Business+Intelligence" alt="Typing SVG" />
-  </a>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MBA-Business%20Analytics%20%40%20Amity%20University-6D28D9?style=flat-square&logo=graduation-cap&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/BTech-CSE%20with%20AI%20%40%20Jain%20University-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/CGPA-8.00%2F10-8B5CF6?style=flat-square&logo=star&logoColor=white" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%93%8D%20Calicut%2C%20Kerala%2C%20India-4C1D95?style=flat-square&logoColor=white" />
-</p>
+[![Jain University](https://img.shields.io/badge/Jain%20University-B.Tech%20CS%20%7C%20AI%20Specialization-6D28D9?style=for-the-badge&logoColor=white)](https://www.jainuniversity.ac.in/)
+![CGPA](https://img.shields.io/badge/CGPA-8.01%20%2F%2010-7C3AED?style=for-the-badge&logoColor=white)
+![Location](https://img.shields.io/badge/📍%20Abu%20Dhabi-UAE-8B5CF6?style=for-the-badge&logoColor=white)
 
-<p align="center">
-  <a href="https://ananthavishnu-kg.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/anantha-vishnu-a0880321b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:ananthuuofficial@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/ananthavishnu-kg" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ananthavishnu-kg&style=flat-square&color=6D28D9&label=Profile+Views" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/ananthavishnu-kg?style=flat-square&color=7C3AED&label=Followers&logo=github" />
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/ananthavishnu-kg?style=flat-square&color=8B5CF6&label=Stars&logo=github" />
-</p>
+<br/>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🚀_Live_App-CV_Screening_App-A855F7?style=for-the-badge)](https://cv-screening-app.cfapps.us10-001.hana.ondemand.com/upload.html)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-santhosh-435499208)
+[![Email](https://img.shields.io/badge/Gmail-akshaysanthosh718-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaysanthosh718@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-akshayy718-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshayy718)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=akshayy718&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/akshayy718?style=for-the-badge&color=A855F7&labelColor=0D1117&label=FOLLOWERS)
+![Stars](https://img.shields.io/badge/TOTAL%20STARS-0-6D28D9?style=for-the-badge&labelColor=0D1117)
+
+</div>
 
 ---
 
-## About Me
+## 🧠 About Me
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=ananthavishnu-kg&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A855F7&icon_color=7C3AED&text_color=C4B5FD&rank_icon=github" />
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=akshayy718&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D1117&border_color=7C3AED&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9&hide_border=false"/>
 
-I am a **Data & AI Analyst** with hands-on experience in Python, SQL, and end-to-end data analytics — from raw data ingestion to executive-level Power BI dashboards. My engineering foundation in **Computer Science with Artificial Intelligence** enables me to bridge the gap between data infrastructure and intelligent automation.
+AI/ML Engineer and Computer Science graduate with hands-on experience building **production-grade LLM-powered applications**, ML models, and enterprise workflow automations.
 
-At **Softloom IT Solutions**, I built production-grade analytics pipelines, processed 50,000+ records with measurable accuracy gains, and reduced manual reporting cycles by 40% through dashboard automation. My work spans **exploratory data analysis**, **NLP-based document processing**, and **full-stack data application development**.
+- 🤖 Built a **Natural Language SQL Chatbot** integrating Groq's Llama 3.3 70B, LangChain, and RAG on a live SQL Server backend — achieving **91% semantic SQL accuracy** across 500+ test queries
+- ⚙️ Engineered an **end-to-end GL Entry Approval automation** connecting SAP SuccessFactors and Sage X3 via n8n Cloud with OAuth 2.0, audit logging, and error handling for 15+ failure scenarios
+- 🚀 Deployed an **AI-powered CV Screening App** on SAP BTP using SAP CAP, Fiori Elements, Node.js and Groq AI — live on Cloud Foundry
+- 📊 Building a **Universal AI Data Dashboard** (Streamlit + Plotly + Groq) supporting any file format with natural language data querying
+- 💡 Passionate about building AI systems that **solve real business problems at scale**
 
-I approach every problem with a **product engineering mindset** — obsessed with outcome metrics, scalability, and delivering insights that drive real business decisions. Currently pursuing an **MBA in Business Analytics** at Amity University to sharpen my strategic thinking alongside technical depth.
+<br/>
 
-**Open To:**
-- Data Analyst / Data Engineer roles
-- AI/ML Engineer positions
-- Business Intelligence & Analytics consulting
-- Full-time, contract, or remote-first opportunities
+**🔍 Open To:** AI/ML Engineer · SAP BTP/CAP Developer · Integration Engineer · Full Stack Developer (AI-focused)
 
 <br clear="right"/>
 
 ---
 
-## Tech Stack
-
-<p align="center">
-  <strong>Languages</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/SQL-6D28D9?style=flat-square&logo=postgresql&logoColor=white" />
-</p>
-
-<p align="center">
-  <strong>Frontend & Visualization</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Power%20BI-A855F7?style=flat-square&logo=powerbi&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-7C3AED?style=flat-square&logo=microsoftexcel&logoColor=white" />
-</p>
-
-<p align="center">
-  <strong>Backend & Databases</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=flask,sqlite&theme=dark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/REST%20APIs-8B5CF6?style=flat-square&logo=fastapi&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/JSON-A855F7?style=flat-square&logo=json&logoColor=white" />
-</p>
-
-<p align="center">
-  <strong>Data, AI & Tooling</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=python,linux,git,github,vscode&theme=dark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Pandas-6D28D9?style=flat-square&logo=pandas&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/NumPy-7C3AED?style=flat-square&logo=numpy&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Tesseract%20OCR-8B5CF6?style=flat-square&logo=google&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Tkinter-A855F7?style=flat-square&logo=python&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Linux%20Ubuntu-6D28D9?style=flat-square&logo=ubuntu&logoColor=white" />
-</p>
-
----
-
-## AI / ML Expertise
+## 🛠️ Tech Stack
 
 <div align="center">
 
-| Domain | Proficiency | Details |
-|--------|-------------|---------|
-| **Natural Language Processing** | ⬛⬛⬛⬛⬜ Advanced | Text preprocessing, tokenization, entity extraction, language translation |
-| **Machine Learning Fundamentals** | ⬛⬛⬛⬜⬜ Intermediate | Supervised learning concepts, model evaluation, feature engineering |
-| **Exploratory Data Analysis** | ⬛⬛⬛⬛⬛ Expert | Statistical analysis, trend identification, anomaly detection, pattern mining |
-| **Data Pipeline Engineering** | ⬛⬛⬛⬛⬜ Advanced | ETL workflows, Python automation, SQL query optimization |
-| **AI Model Integration** | ⬛⬛⬛⬜⬜ Intermediate | API-based AI services, OCR integration, Google TTS, prompt engineering |
-| **Business Intelligence** | ⬛⬛⬛⬛⬛ Expert | KPI dashboarding, Power BI, executive reporting, data storytelling |
-| **Prompt Engineering** | ⬛⬛⬛⬛⬜ Advanced | LLM interaction design, structured output generation, chain-of-thought prompting |
+### ⚡ Languages
+[![Skills](https://skillicons.dev/icons?i=python,js,ts,sql&theme=dark)](https://skillicons.dev)
+
+### 🎨 Frontend & UI
+[![Skills](https://skillicons.dev/icons?i=react,html,css,figma&theme=dark)](https://skillicons.dev)
+
+### 🔧 Backend & Databases
+[![Skills](https://skillicons.dev/icons?i=nodejs,fastapi,sqlite,postgres&theme=dark)](https://skillicons.dev)
+
+### ☁️ Cloud, DevOps & Tooling
+[![Skills](https://skillicons.dev/icons?i=aws,azure,git,github,docker,linux&theme=dark)](https://skillicons.dev)
+
+### 🤖 AI / ML Frameworks
+[![Skills](https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark)](https://skillicons.dev)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![SAP CAP](https://img.shields.io/badge/SAP%20CAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![SAP BTP](https://img.shields.io/badge/SAP%20BTP-0070F2?style=flat-square&logo=sap&logoColor=white)
+![SAP Fiori](https://img.shields.io/badge/SAP%20Fiori-009FDA?style=flat-square&logo=sap&logoColor=white)
+![CDS](https://img.shields.io/badge/CDS-Core%20Data%20Services-005FCE?style=flat-square&logo=sap&logoColor=white)
+![OData](https://img.shields.io/badge/OData%20v4-E8145A?style=flat-square)
+![Cloud Foundry](https://img.shields.io/badge/Cloud%20Foundry-0C9ED5?style=flat-square&logo=cloud-foundry&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq%20AI-F55036?style=flat-square&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-412991?style=flat-square&logo=meta&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square)
+![PyODBC](https://img.shields.io/badge/PyODBC-003B57?style=flat-square)
 
 </div>
 
 ---
 
-## Featured Projects
+## 🤖 AI / ML Expertise
+
+| Domain | Proficiency | Key Tools & Details |
+|--------|:-----------:|---------------------|
+| **LLM Engineering** | ⭐⭐⭐⭐⭐ | Groq API · LangChain · Llama 3.3 70B · Prompt Engineering · Chain-of-Thought |
+| **RAG Pipelines** | ⭐⭐⭐⭐⭐ | FAISS · ChromaDB · Pinecone · Weaviate · Schema-Injected Context |
+| **AI Agents** | ⭐⭐⭐⭐ | SQL Agent · Tool-Use Agents · LangChain Agent Executor |
+| **Data Visualization** | ⭐⭐⭐⭐⭐ | Streamlit · Plotly · Auto-Chart Generation · KPI Detection |
+| **Computer Vision** | ⭐⭐⭐⭐ | YOLOv10 · SegFormer · SAM · Object Detection · Semantic Segmentation |
+| **Time Series** | ⭐⭐⭐⭐ | PatchTST · LSTM · ARIMA · Forecasting · Anomaly Detection |
+| **Fine-Tuning** | ⭐⭐⭐ | QLoRA · PEFT · Hugging Face Transformers |
+| **ML Ops** | ⭐⭐⭐ | MLflow · Experiment Tracking · Model Versioning · FastAPI Serving |
+| **Workflow Automation** | ⭐⭐⭐⭐ | n8n Cloud · OData · REST APIs · OAuth 2.0 · Human-in-the-Loop |
+
+---
+
+## 🚀 Featured Projects
 
 <details>
-<summary><strong>📊 Business Analytics & KPI Intelligence System</strong></summary>
-
+<summary><b>📊 Universal AI Data Dashboard — Streamlit + Groq + Plotly</b></summary>
 <br/>
 
-An enterprise-grade, end-to-end data analytics platform engineered to deliver real-time business intelligence through automated pipelines and interactive dashboards. The system ingests raw operational data, applies structured transformation logic, and surfaces KPIs that empower leadership-level decision-making across revenue, product, and regional dimensions.
-
-<div align="center">
+A fully universal, AI-powered data analytics dashboard that accepts **any file format** — Excel, CSV, PDF, or Word — and automatically generates visual insights without hardcoding. Powered by **Groq's Llama 3.3 70B** for natural language data analysis with an intelligent chat interface.
 
 | Attribute | Details |
 |-----------|---------|
-| **Stack** | Python (Pandas), SQL, Power BI, SQLite |
-| **Scale** | 50,000+ records processed per pipeline run |
-| **Performance** | 40% reduction in manual reporting effort; report prep time cut from 2 days to under 6 hours |
-| **Security** | Structured data isolation; role-based dashboard access |
-| **Impact** | 15% improvement in sales tracking efficiency; executive KPI visibility across all business units |
-| **Repository** | [View on GitHub](https://github.com/ananthavishnu-kg) |
+| **Stack** | Python · Streamlit · Pandas · Plotly · Groq AI · pdfplumber · python-docx |
+| **AI Model** | Groq llama-3.3-70b-versatile (token-efficient summary-based architecture) |
+| **File Support** | Excel (.xlsx / .xls) · CSV · PDF · Word (.docx) |
+| **Scale** | Handles 10,000+ row datasets via Pandas summarization before LLM call |
+| **Intelligence** | Auto-detects column types, KPIs, date trends, overdue items |
+| **Security** | User-supplied Groq API key via sidebar — zero hardcoded secrets |
+| **Impact** | Universal tool — any industry, any dataset, any team |
+| **Repository** | [github.com/akshayy718/universal-ai-dashboard](https://github.com/akshayy718/universal-ai-dashboard) |
 
-</div>
+Smart token management architecture: Pandas computes a statistical summary first, then only the summary (~300 tokens) is passed to Groq — enabling AI-powered analysis even on 100,000-row files without hitting token limits.
 
-The system was architected to eliminate bottlenecks in the traditional reporting cycle. SQL joins across normalized schemas prepared structured datasets for downstream analytics. Python-based Pandas workflows handled cleansing, deduplication, and transformation at scale. Power BI was used to construct multi-layered dashboards with drill-down capabilities, trend forecasting visuals, and regional performance heat maps — enabling cross-functional teams to derive actionable insights without requiring technical expertise.
+</details>
 
+<details>
+<summary><b>🤖 AI-Powered CV Screening App — SAP CAP + Fiori + Groq (Live on BTP)</b></summary>
 <br/>
+
+Enterprise-grade CV screening application built on **SAP CAP**, deployed live to **SAP BTP Cloud Foundry**. Accepts PDF, DOCX, and TXT uploads, extracts structured candidate data using **Groq Llama 3.3 70B** via a two-stage AI pipeline, and presents results through **SAP Fiori Elements UI** (List Report + Object Page).
+
+| Attribute | Details |
+|-----------|---------|
+| **Stack** | SAP CAP · SAP Fiori Elements · Node.js · Groq AI · SQLite · Cloud Foundry |
+| **AI Pipeline** | Stage 1: Structured JSON extraction → Stage 2: Professional AI summary generation |
+| **API** | OData v4 via CDS service definition |
+| **Deployment** | SAP BTP Cloud Foundry — us10 region — live in production |
+| **Performance** | Extracts name, email, skills, experience, and role fit from any CV format |
+| **Security** | CF environment variable secrets — no hardcoded API keys |
+| **Repository** | [github.com/akshayy718/cv-screening-app](https://github.com/akshayy718/cv-screening-app) |
+| **Live Demo** | [cv-screening-app.cfapps.us10-001.hana.ondemand.com](https://cv-screening-app.cfapps.us10-001.hana.ondemand.com/upload.html) |
+
+</details>
+
+<details>
+<summary><b>💬 Natural Language SQL Chatbot — LangChain + Groq + MS SQL Server</b></summary>
+<br/>
+
+Production-style AI chatbot converting natural language business questions into validated SQL queries against a **Microsoft SQL Server** Northwind ERP database. Achieved **91% semantic SQL accuracy** across 500+ test queries through systematic prompt engineering.
+
+| Attribute | Details |
+|-----------|---------|
+| **Stack** | Python · LangChain · Groq API · MS SQL Server · SQLAlchemy · PyODBC · Gradio |
+| **AI Model** | Groq llama-3.3-70b-versatile via LangChain SQL Agent |
+| **RAG** | Schema-injected context (table names, columns, foreign keys) into prompt |
+| **Accuracy** | 91% semantic SQL accuracy · complex query accuracy improved from 76% → 89% |
+| **Performance** | Query latency reduced from 2.3s → 0.8s after index optimization |
+| **Safety** | Read-only SELECT enforcement — zero destructive query execution |
+| **Prompt Eng.** | 25+ systematic variations · chain-of-thought prompting · 500+ test queries |
+| **Repository** | [github.com/akshayy718/northwind-chatbot](https://github.com/akshayy718/northwind-chatbot) |
+
+</details>
+
+<details>
+<summary><b>⚙️ GL Entry Approval Automation — SAP SuccessFactors × Sage X3 via n8n</b></summary>
+<br/>
+
+Enterprise workflow automation pipeline on **n8n Cloud** integrating SAP SuccessFactors (OData GET) with Sage X3 (REST POST) via an **email-based human-in-the-loop approval step** with full audit logging and OAuth 2.0 security.
+
+| Attribute | Details |
+|-----------|---------|
+| **Stack** | n8n Cloud · SAP SuccessFactors OData API · Sage X3 REST API · Gmail API · OAuth 2.0 |
+| **Pattern** | Event-driven · Human-in-the-loop · Multi-day state machine with escalation logic |
+| **Mapping** | 20+ SAP GL fields → Sage X3 journal entry schema (tax codes, contra-account logic) |
+| **Reliability** | Error handling for 15+ failure scenarios · exponential backoff retry |
+| **Compliance** | Full audit logging: approver identity, timestamp, GL details, financial impact |
+| **Impact** | Eliminates manual GL entry routing bottlenecks across two separate ERP systems |
+
+</details>
+
+<details>
+<summary><b>📱 Mobile Device for Impaired Persons — Computer Vision + NLP</b></summary>
+<br/>
+
+Smart Android device for visually, hearing, and speech-impaired users combining real-time object detection, NLP sign interpretation, and emotion-based voice synthesis.
+
+| Attribute | Details |
+|-----------|---------|
+| **Stack** | Python · Microsoft Kinect · PCA · Viterbi Search · Android |
+| **Features** | Navigation Detection · Speech Recognition · Face Gesture Recognition |
+| **AI** | Real-time object detection · NLP sign language interpretation · emotion-based TTS |
+| **Impact** | Accessibility tool serving multi-impairment users in a single unified device |
+
 </details>
 
 ---
 
-<details>
-<summary><strong>🏥 AI-Based Medical Document Processing System</strong></summary>
+## 💼 Experience
 
-<br/>
+### IT Assistant & Platform Administrator
+**Ramah General Contracting & Transport LLC** · Abu Dhabi, UAE · *April 2026 – Present*
 
-A production-ready healthcare document intelligence platform that combines OCR, NLP, and voice synthesis to automate the extraction, translation, and storage of critical patient information from unstructured medical records. Designed to reduce manual clinical documentation effort and improve accessibility across language barriers.
+Providing IT support and system coordination for a leading UAE heavy infrastructure and earthworks contractor with **1,300+ employees** and a **2.5B+ AED project portfolio** — while independently architecting AI and automation solutions to modernise internal workflows.
 
-<div align="center">
+- Administering **Asite** (construction project management platform) to maintain structured records of site work report forms, daily progress reports, and field documentation across active construction projects
+- Developed a proof-of-concept **Natural Language SQL Chatbot** (LangChain, Groq Llama 3.3 70B, MS SQL Server) to demonstrate AI-driven data querying for operational reporting use cases
+- Architecting an **n8n-based GL Entry Approval automation** connecting SAP SuccessFactors with Sage X3, eliminating manual finance workflow bottlenecks
+- Supporting day-to-day IT operations including **user access management**, software troubleshooting, and coordination between site teams and management
 
-| Attribute | Details |
-|-----------|---------|
-| **Stack** | Python, Tesseract OCR, NLP, Tkinter, SQLite, Google TTS |
-| **Scale** | 5,000+ patient records managed and structured |
-| **Performance** | 70% reduction in manual interpretation effort |
-| **Security** | Structured SQLite storage with isolated patient record schemas |
-| **Impact** | Multilingual medical record accessibility; voice-output-enabled clinical workflows |
-| **Repository** | [View on GitHub](https://github.com/ananthavishnu-kg) |
-
-</div>
-
-The system leverages Tesseract OCR to extract raw text from scanned healthcare documents, followed by a preprocessing pipeline that normalizes, tokenizes, and entity-tags clinical data using NLP techniques. Language translation enables cross-lingual record management, while Google Text-to-Speech converts structured output into voice responses — making information accessible to patients and clinicians regardless of language or literacy level. The Tkinter-based GUI provides an intuitive interface for medical staff to query and manage records with zero coding overhead.
-
-<br/>
-</details>
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![Asite](https://img.shields.io/badge/Asite-Platform%20Admin-6D28D9?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 
 ---
 
-<details>
-<summary><strong>☕ Koffinoor — Café Ordering & Analytics Platform</strong></summary>
+### AI / ML Engineer Intern
+**Corizo** · Bengaluru, India · *January 2024 – July 2024*
 
-<br/>
+- Built **Cardiovascular Disease Prediction Model** using TensorFlow and Scikit-learn with ensemble classifiers and MLflow experiment tracking
+- Gained hands-on experience in Python, ML frameworks, and iterative AI model development workflows
+- Trained computer vision models including **YOLOv10** and **SegFormer** for object detection and semantic segmentation
 
-A full-stack café management and intelligence platform that unifies digital ordering, backend inventory processing, and business analytics into a single integrated system. Built to simulate a production café environment with real-time order handling, cart management, and Power BI-driven sales intelligence.
-
-<div align="center">
-
-| Attribute | Details |
-|-----------|---------|
-| **Stack** | Flask, SQLite, HTML, CSS, JavaScript, Power BI |
-| **Scale** | Multi-item dynamic ordering with full cart and session management |
-| **Performance** | 25% improvement in simulated operational efficiency |
-| **Security** | Backend session handling; SQL injection-safe parameterized queries |
-| **Impact** | End-to-end analytics on customer preferences, top SKUs, and revenue trends |
-| **Repository** | [View on GitHub](https://github.com/ananthavishnu-kg) |
-
-</div>
-
-The platform was built on a Flask backend that handles order routing, database writes, and session persistence across a responsive HTML/CSS/JS frontend. SQLite powers the relational data layer for menu, order, and customer entities. Power BI dashboards were connected to the database to surface real-time analytics — providing a café operator view of product demand, peak hours, and revenue performance. The architecture reflects a complete product engineering lifecycle: from UI design to backend logic to business intelligence output.
-
-<br/>
-</details>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
 ---
 
-## Experience
+### Full Stack Developer — Freelance
+**Quantum Gully** · *2022 – 2024*
 
-<img align="right" src="https://img.shields.io/badge/10%2F2024%20%E2%80%93%2010%2F2025-6D28D9?style=flat-square&logoColor=white" />
+- Developed responsive landing pages and web applications for multiple businesses, handling **end-to-end client communication and delivery**
+- Built the **RGCT Careers subpage** on Wix Studio with CV upload functionality and dark-theme enterprise design
+- Developed a **Car Price Prediction Flask App** with ML model inference and REST API exposure
 
-### Data Analyst Intern — Softloom IT Solutions
-**📍 Kochi, Kerala**
-
-Embedded within a cross-functional product and analytics team at a technology solutions firm, responsible for building the data infrastructure, reporting pipelines, and BI dashboards that supported core business operations. Delivered measurable improvements across reporting efficiency, data quality, and operational insight generation.
-
-- Built **6+ interactive Power BI dashboards** tracking business KPIs and operational metrics, cutting manual reporting effort by **40%**
-- Extracted and joined multi-source datasets using **optimized SQL queries** to prepare structured data for analytics pipelines
-- Processed and cleaned **50,000+ records** using Python (Pandas, NumPy), improving data quality and reporting accuracy by **30%**
-- Automated KPI reporting workflows, compressing report preparation time from **2 days to under 6 hours**
-- Conducted **exploratory data analysis** to surface business trends and drive a **15% improvement** in sales tracking efficiency
-- Collaborated with cross-functional stakeholders to translate business requirements into data-driven dashboards
-
-<p>
-  <img src="https://img.shields.io/badge/Python-6D28D9?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-7C3AED?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-8B5CF6?style=flat-square&logo=powerbi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-A855F7?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-6D28D9?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/EDA-7C3AED?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Pipelines-8B5CF6?style=flat-square&logoColor=white" />
-</p>
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
-## Achievements
+## 🏆 Achievements
 
 <div align="center">
 
-| 🏆 Recognition | Details |
-|----------------|---------|
-| **40% Reporting Efficiency Gain** | Automated Power BI dashboards eliminated manual KPI reporting cycles at Softloom IT Solutions |
-| **30% Data Quality Improvement** | Python-based data cleaning pipeline on 50,000+ records achieved measurable accuracy gains |
-| **70% Effort Reduction in Healthcare AI** | AI document processing system slashed manual interpretation time via OCR + NLP + TTS automation |
-| **Academic Excellence** | Graduated BTech CSE with AI with CGPA of 8.00/10 from Jain University, Bengaluru |
-| **NSS Volunteer Leader** | Led community initiatives and social outreach programs under National Service Scheme |
-| **Junior Red Cross Leader** | Organised health awareness campaigns and community health support activities |
-| **MBA in Progress** | Pursuing Business Analytics MBA at Amity University — expanding strategic and analytical leadership capabilities |
+| 🏅 Recognition | 📋 Details |
+|----------------|-----------|
+| 🎓 **B.Tech CGPA 8.01** | Computer Science — AI Specialization · Jain University Bengaluru |
+| 🚀 **SAP BTP Cloud Foundry Deployment** | Independently deployed SAP CAP app to live production environment |
+| 🤖 **91% SQL Accuracy** | LangChain + Groq SQL chatbot across 500+ test queries via chain-of-thought prompting |
+| ⚙️ **15+ Failure Scenarios Handled** | Robust error handling in n8n GL automation with exponential backoff retry |
+| 🔗 **Cross-Platform ERP Integration** | SAP SuccessFactors ↔ Sage X3 via n8n Cloud with OAuth 2.0 audit trail |
+| 📊 **Universal AI Dashboard** | AI analytics tool supporting Excel · CSV · PDF · Word for any industry |
+| 📐 **Multi-Domain AI Portfolio** | Computer Vision · Time Series · NLP · RAG · Agents · Data Viz · SAP |
 
 </div>
 
 ---
 
-## Certifications
+## 📜 Certifications
 
-<p align="center"><strong>Google</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Google-Data%20Analytics%20Professional-6D28D9?style=for-the-badge&logo=google&logoColor=white" />
-</p>
+<div align="center">
 
-<p align="center"><strong>Microsoft</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Microsoft-Power%20BI%20Data%20Analyst-7C3AED?style=for-the-badge&logo=microsoftpowerbi&logoColor=white" />
-</p>
+### 🎓 Udemy
+![Python](https://img.shields.io/badge/Udemy-Python%20Course%20Certification-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
+![LLM](https://img.shields.io/badge/Udemy-AI%20Engineer%20Core%20Track%3A%20LLM%20%7C%20RAG%20%7C%20QLoRA%20%7C%20Agents-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
 
-<p align="center"><strong>Keltron</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Keltron-Data%20Analytics%20with%20AI-8B5CF6?style=for-the-badge&logo=databricks&logoColor=white" />
-</p>
+### 🏢 Corizo
+![Corizo](https://img.shields.io/badge/Corizo-Artificial%20Intelligence%20Certification-7C3AED?style=for-the-badge&logoColor=white)
 
-<p align="center"><strong>Softloom IT Solutions</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Softloom-Big%20Data%20Analytics%20%26%20Cloud%20Computing-A855F7?style=for-the-badge&logo=apachespark&logoColor=white" />
-</p>
-
-<p align="center"><strong>Udemy</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Udemy-Python%20Programming-6D28D9?style=for-the-badge&logo=udemy&logoColor=white" />
-</p>
-
-<p align="center"><strong>Amity School of AI</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Amity%20School%20of%20AI-AI%20in%20Finance%20%26%20Risk%20Management-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
+</div>
 
 ---
 
-## Coding Profiles
+## 📊 GitHub Analytics
 
-<p align="center">
-  <a href="https://leetcode.com/ananthavishnu-kg" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Anantha%20Vishnu-6D28D9?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
-  </a>
-  &nbsp;
-  <a href="https://www.geeksforgeeks.org/user/ananthavishnu-kg" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Anantha%20Vishnu-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" />
-  </a>
-  &nbsp;
-  <a href="https://www.hackerrank.com/ananthavishnu-kg" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-Anantha%20Vishnu-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=2EC866" />
-  </a>
-  &nbsp;
-  <a href="https://www.codechef.com/users/ananthavishnu-kg" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-Anantha%20Vishnu-A855F7?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akshayy718&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D1117&border_color=7C3AED&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayy718&layout=compact&langs_count=8&theme=tokyonight&bg_color=0D1117&border_color=7C3AED&title_color=A855F7&text_color=C9D1D9"/>
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=akshayy718&theme=tokyonight&background=0D1117&border=7C3AED&stroke=7C3AED&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=8B949E"/>
+
+</div>
 
 ---
 
-## GitHub Analytics
+## 🏅 GitHub Trophies
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ananthavishnu-kg&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A855F7&icon_color=7C3AED&text_color=C4B5FD&include_all_commits=true&count_private=true" />
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananthavishnu-kg&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A855F7&text_color=C4B5FD&langs_count=8" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananthavishnu-kg&theme=midnight-purple&hide_border=true&background=0D0D1A&ring=A855F7&fire=7C3AED&currStreakLabel=C4B5FD&sideNums=C4B5FD&sideLabels=8B5CF6&dates=6D28D9" />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=akshayy718&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
-## GitHub Trophies
+## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ananthavishnu-kg&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=4" />
-</p>
+<div align="center">
 
----
+[![Akshay's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akshayy718&bg_color=0D1117&color=A855F7&line=7C3AED&point=8B5CF6&area=true&area_color=6D28D9&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ananthavishnu-kg&bg_color=0D0D1A&color=A855F7&line=7C3AED&point=C4B5FD&area=true&area_color=6D28D9&hide_border=true&custom_title=Anantha%20Vishnu%20%E2%80%94%20Contribution%20Graph" />
-</p>
+</div>
 
 ---
 
-## Contribution Snake
+## 🐍 Contribution Snake
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ananthavishnu-kg/ananthavishnu-kg/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ananthavishnu-kg/ananthavishnu-kg/output/github-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ananthavishnu-kg/ananthavishnu-kg/output/github-snake.svg" />
-  </picture>
-</p>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshayy718/akshayy718/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akshayy718/akshayy718/output/github-snake.svg"/>
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/akshayy718/akshayy718/output/github-snake.svg"/>
+</picture>
+
+</div>
 
 ---
 
-## Current Focus
+## 🎯 Current Focus
 
 ```yaml
 current_focus:
   learning:
-    - Advanced Machine Learning — scikit-learn, XGBoost, model deployment
-    - Cloud Data Engineering — AWS S3, Glue, Athena, Redshift
-    - dbt (data build tool) for analytics engineering
-    - Apache Spark fundamentals for large-scale data processing
+    - SAP BTP Advanced: XSUAA auth · SAP HANA Cloud · MTA deployment
+    - LLM Engineering: QLoRA fine-tuning · RAG pipeline optimization
+    - n8n: advanced webhook orchestration · complex branching workflows
 
   building:
-    - AI-enhanced analytics dashboards with LLM-driven insight narration
-    - Automated ETL pipelines with Python and cloud-native tooling
-    - NLP systems for domain-specific document intelligence
+    - Universal AI Data Dashboard  →  Streamlit + Groq + Plotly
+    - AI-powered CV Screening App  →  SAP CAP + Fiori (live on BTP CF)
+    - GL Entry Approval Automation →  SAP SuccessFactors × Sage X3
 
   exploring:
-    - Vector databases and semantic search for AI applications
-    - MLOps principles — experiment tracking, model versioning
-    - Business strategy frameworks through MBA coursework
+    - Agentic AI patterns (tool-use · multi-step reasoning · memory)
+    - SAP Integration Suite and BTP connectivity services
+    - Vector database architectures for enterprise knowledge retrieval
 
   open_to:
-    - Data Analyst / Senior Data Analyst roles
-    - Data Engineer positions
-    - Business Intelligence Engineer opportunities
-    - AI/ML Analyst roles
-    - Remote-first or hybrid full-time positions
+    - AI/ML Engineer          →  UAE · India · Remote
+    - SAP BTP / CAP Developer →  UAE · India · Remote
+    - Integration Engineer    →  SAP · ERP · API platforms
+    - Full Stack Developer    →  AI-focused product engineering
 ```
 
 ---
 
-## Connect
+## 🤝 Connect With Me
 
-<p align="center">
-  <a href="mailto:ananthuuofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ananthuuofficial%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/anantha-vishnu-a0880321b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Anantha%20Vishnu-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/ananthavishnu-kg">
-    <img src="https://img.shields.io/badge/GitHub-ananthavishnu--kg-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://ananthavishnu-kg.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-ananthavishnu--kg.github.io-A855F7?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-akshaysanthosh718%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaysanthosh718@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshay%20Santhosh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-santhosh-435499208)
+[![GitHub](https://img.shields.io/badge/GitHub-akshayy718-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshayy718)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20CV%20App-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://cv-screening-app.cfapps.us10-001.hana.ondemand.com/upload.html)
+
+</div>
 
 ---
 
-<p align="center">
-  <em>"Data is not just numbers — it is the language through which systems reveal their truth."</em>
-</p>
+<div align="center">
+
+*"The best engineers don't just write code — they architect solutions that outlive the problem."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&animation=twinkling" width="100%"/>
+
+</div>
