@@ -35,7 +35,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=akshayy718&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/akshayy718?style=for-the-badge&color=A855F7&labelColor=0D1117&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/akshayy718?style=for-the-badge&color=6D28D9&labelColor=0D1117&label=TOTAL+STARS)
+![Stars](https://img.shields.io/badge/TOTAL%20STARS-0-6D28D9?style=for-the-badge&labelColor=0D1117)
 
 </div>
 
