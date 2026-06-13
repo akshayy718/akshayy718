@@ -144,7 +144,7 @@ A fully universal, AI-powered data analytics dashboard that accepts **any file f
 | **Intelligence** | Auto-detects column types, KPIs, date trends, overdue items |
 | **Security** | User-supplied Groq API key via sidebar — zero hardcoded secrets |
 | **Impact** | Universal tool — any industry, any dataset, any team |
-| **Repository** | [github.com/akshayy718/universal-ai-dashboard](https://github.com/akshayy718/universal-ai-dashboard) |
+| **Repository** | [github.com/akshayy718/AI-Universal-Data-Dashboard](https://github.com/akshayy718/AI-Universal-Data-Dashboard) |
 | **Live Demo** | [ai-universal-data-dashboard.streamlit.app](https://ai-universal-data-dashboard.streamlit.app/) |
 
 Smart token management architecture: Pandas computes a statistical summary first, then only the summary (~300 tokens) is passed to Groq — enabling AI-powered analysis even on 100,000-row files without hitting token limits.
@@ -186,6 +186,7 @@ Production-style AI chatbot converting natural language business questions into 
 | **Safety** | Read-only SELECT enforcement — zero destructive query execution |
 | **Prompt Eng.** | 25+ systematic variations · chain-of-thought prompting · 500+ test queries |
 | **Repository** | [github.com/akshayy718/northwind-chatbot](https://github.com/akshayy718/northwind-chatbot) |
+| **Live Demo** | [huggingface.co/spaces/Akshay718/northwind-chatbot](https://huggingface.co/spaces/Akshay718/northwind-chatbot) |
 
 </details>
 
