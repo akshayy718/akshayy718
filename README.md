@@ -228,7 +228,7 @@ A fully responsive, dark-themed cafe website built with **Django**, featuring a 
 | **Deployment** | PythonAnywhere (WSGI + Static files) — live production |
 | **Repository** | [github.com/akshayy718/Brewnova](https://github.com/akshayy718/Brewnova) |
 | **Live Demo** | [akshay718.pythonanywhere.com](https://akshay718.pythonanywhere.com) |
-
+| **Demo Video** | [▶ Watch Full Website Demo]([https://drive.google.com/file/d/1oscpLaeHALSRTYQPnyXWFAlQk9K1nxEc/view?usp=sharing](https://drive.google.com/file/d/1oscpLaeHALSRTYQPnyXWFAlQk9K1nxEc/view?usp=sharing)) |
 Built from scratch with a complete rebrand — custom dark color palette, 30+ menu items with curated food photography, SVG logo design, and full deployment pipeline from local development to production hosting.
 
 </details>
