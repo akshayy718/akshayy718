@@ -25,7 +25,7 @@
 [![Portfolio](https://img.shields.io/badge/🚀_Live_App-CV_Screening_App-A855F7?style=for-the-badge)](https://cv-screening-app.cfapps.us10-001.hana.ondemand.com/upload.html)
 [![Dashboard](https://img.shields.io/badge/📊_Live_App-AI_Data_Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://ai-universal-data-dashboard.streamlit.app/)
 [![Chatbot](https://img.shields.io/badge/💬_Live_App-Northwind_SQL_Chatbot-FF7C00?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/Akshay718/northwind-chatbot)
-[![Brewnova](https://img.shields.io/badge/☕_Live_App-Brewnova_Cafe-E94560?style=for-the-badge&logo=django&logoColor=white)](https://akshay718.pythonanywhere.com)
+[![Brewnova](https://img.shields.io/badge/☕_Live_Website-Brewnova_Cafe-E94560?style=for-the-badge&logo=django&logoColor=white)](https://akshay718.pythonanywhere.com)
 [![GL Automation](https://img.shields.io/badge/⚙️_Demo-GL_Entry_Automation-EA4B8B?style=for-the-badge&logo=n8n&logoColor=white)](https://drive.google.com/file/d/1oscpLaeHALSRTYQPnyXWFAlQk9K1nxEc/view?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-santhosh-435499208)
 [![Email](https://img.shields.io/badge/Gmail-akshaysanthosh718-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaysanthosh718@gmail.com)
