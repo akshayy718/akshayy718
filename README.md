@@ -25,6 +25,7 @@
 [![Portfolio](https://img.shields.io/badge/🚀_Live_App-CV_Screening_App-A855F7?style=for-the-badge)](https://cv-screening-app.cfapps.us10-001.hana.ondemand.com/upload.html)
 [![Dashboard](https://img.shields.io/badge/📊_Live_App-AI_Data_Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://ai-universal-data-dashboard.streamlit.app/)
 [![Chatbot](https://img.shields.io/badge/💬_Live_App-Northwind_SQL_Chatbot-FF7C00?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/Akshay718/northwind-chatbot)
+[![Brewnova](https://img.shields.io/badge/☕_Live_App-Brewnova_Cafe-E94560?style=for-the-badge&logo=django&logoColor=white)](https://akshay718.pythonanywhere.com)
 [![GL Automation](https://img.shields.io/badge/⚙️_Demo-GL_Entry_Automation-EA4B8B?style=for-the-badge&logo=n8n&logoColor=white)](https://drive.google.com/file/d/1oscpLaeHALSRTYQPnyXWFAlQk9K1nxEc/view?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-santhosh-435499208)
 [![Email](https://img.shields.io/badge/Gmail-akshaysanthosh718-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaysanthosh718@gmail.com)
@@ -210,7 +211,27 @@ Enterprise workflow automation pipeline on **n8n Cloud** integrating SAP Success
 | **Demo Video** | [▶ Watch Full Workflow Demo](https://drive.google.com/file/d/1oscpLaeHALSRTYQPnyXWFAlQk9K1nxEc/view?usp=sharing) |
 
 </details>
+<details>
+<summary><b>☕ Brewnova Cafe Website — Django + Dark Theme + PythonAnywhere</b></summary>
+<br/>
 
+A fully responsive, dark-themed cafe website built with **Django**, featuring a curated menu, order system, blog reviews, and a custom SVG logo. Designed with a **Midnight Espresso** color palette and deployed live on **PythonAnywhere**.
+
+| Attribute | Details |
+|-----------|---------|
+| **Stack** | Python · Django 6.0 · HTML5 · CSS3 · JavaScript · PythonAnywhere |
+| **Theme** | Custom "Midnight Espresso" dark theme — deep navy, red-pink accents |
+| **Pages** | Home · Menu (30+ items, 5 categories) · About · Blogs/Reviews · Order |
+| **Features** | Dynamic order form with VAT calculation · Star rating reviews · Responsive grid layout |
+| **Design** | Custom SVG logo · CSS Grid menu cards · Fade-in scroll animations · Mobile-responsive |
+| **Context** | UAE / Abu Dhabi — AED pricing, local contact info, regional payment methods |
+| **Deployment** | PythonAnywhere (WSGI + Static files) — live production |
+| **Repository** | [github.com/akshayy718/Brewnova](https://github.com/akshayy718/Brewnova) |
+| **Live Demo** | [akshay718.pythonanywhere.com](https://akshay718.pythonanywhere.com) |
+
+Built from scratch with a complete rebrand — custom dark color palette, 30+ menu items with curated food photography, SVG logo design, and full deployment pipeline from local development to production hosting.
+
+</details>
 <details>
 <summary><b>📱 Mobile Device for Impaired Persons — Computer Vision + NLP</b></summary>
 <br/>
