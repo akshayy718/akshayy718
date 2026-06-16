@@ -212,24 +212,25 @@ Enterprise workflow automation pipeline on **n8n Cloud** integrating SAP Success
 
 </details>
 <details>
-<summary><b>☕ Brewnova Cafe Website — Django + Dark Theme + PythonAnywhere</b></summary>
+<summary><b>☕ Brewnova Cafe Website — Django + Midnight Espresso Theme + PythonAnywhere</b></summary>
 <br/>
 
-A fully responsive, dark-themed cafe website built with **Django**, featuring a curated menu, order system, blog reviews, and a custom SVG logo. Designed with a **Midnight Espresso** color palette and deployed live on **PythonAnywhere**.
+A fully responsive, dark-themed cafe website built with **Django 6.0**, featuring 33+ curated menu items, online ordering with VAT calculation, customer reviews with star ratings, and a custom SVG brand identity — all designed with the signature **Midnight Espresso** color palette and deployed live on **PythonAnywhere**.
 
 | Attribute | Details |
 |-----------|---------|
-| **Stack** | Python · Django 6.0 · HTML5 · CSS3 · JavaScript · PythonAnywhere |
-| **Theme** | Custom "Midnight Espresso" dark theme — deep navy, red-pink accents |
-| **Pages** | Home · Menu (30+ items, 5 categories) · About · Blogs/Reviews · Order |
-| **Features** | Dynamic order form with VAT calculation · Star rating reviews · Responsive grid layout |
-| **Design** | Custom SVG logo · CSS Grid menu cards · Fade-in scroll animations · Mobile-responsive |
-| **Context** | UAE / Abu Dhabi — AED pricing, local contact info, regional payment methods |
-| **Deployment** | PythonAnywhere (WSGI + Static files) — live production |
+| **Stack** | Python 3.13 · Django 6.0.6 · HTML5 · CSS3 · JavaScript · PythonAnywhere |
+| **Theme** | Custom "Midnight Espresso" — `#0A0A18` · `#0D0D1A` · `#16213E` · `#E94560` · `#F5F5F5` |
+| **Pages** | Home · Menu (33 items, 5 categories) · About · Blogs/Reviews · Order |
+| **Features** | Dynamic order form with VAT (5%) · Star rating reviews · 3-column responsive grid · Scroll animations |
+| **Design** | Custom SVG coffee cup logo · CSS Variables dark theme · Playfair Display + Poppins typography |
+| **Context** | UAE / Abu Dhabi — AED pricing, local contact info, Card/Apple Pay/Cash payments |
+| **Deployment** | PythonAnywhere (WSGI + Static Files) — live production |
 | **Repository** | [github.com/akshayy718/Brewnova](https://github.com/akshayy718/Brewnova) |
 | **Live Demo** | [akshay718.pythonanywhere.com](https://akshay718.pythonanywhere.com) |
-| **Demo Video** | [▶ Watch Full Website Demo]([https://drive.google.com/file/d/1oscpLaeHALSRTYQPnyXWFAlQk9K1nxEc/view?usp=sharing](https://drive.google.com/file/d/1oscpLaeHALSRTYQPnyXWFAlQk9K1nxEc/view?usp=sharing)) |
-Built from scratch with a complete rebrand — custom dark color palette, 30+ menu items with curated food photography, SVG logo design, and full deployment pipeline from local development to production hosting.
+| **Video Demo** | [▶ Watch Full Walkthrough](https://drive.google.com/file/d/1EpDA0cIfhxJYgcSYAXD-cgwG8eiVdQ-W/view?usp=sharing) |
+
+Not a template — every color, card, menu item, and image was hand-crafted. Built from scratch with complete rebranding, 33+ menu items with curated food photography, custom SVG logo, and full deployment pipeline.
 
 </details>
 <details>
