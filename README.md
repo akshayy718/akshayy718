@@ -22,6 +22,7 @@
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live_Site-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://akshay-portfolio-site-vert.vercel.app/)
 [![Portfolio](https://img.shields.io/badge/🚀_Live_App-CV_Screening_App-A855F7?style=for-the-badge)](https://cv-screening-app.cfapps.us10-001.hana.ondemand.com/upload.html)
 [![Dashboard](https://img.shields.io/badge/📊_Live_App-AI_Data_Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://ai-universal-data-dashboard.streamlit.app/)
 [![Chatbot](https://img.shields.io/badge/💬_Live_App-Northwind_SQL_Chatbot-FF7C00?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/Akshay718/northwind-chatbot)
@@ -131,6 +132,25 @@ AI/ML Engineer and Computer Science graduate with hands-on experience building *
 ---
 
 ## 🚀 Featured Projects
+
+<details>
+<summary><b>🌐 Personal Portfolio Site — React + Tailwind + Framer Motion</b></summary>
+<br/>
+
+An editorial-style portfolio built from scratch to avoid the generic "purple gradient SaaS template" look common in AI-generated sites. Features a fully custom dark/light theme architecture, a 3D cursor-tilt effect on project cards, and a live embedded chatbot demo showcasing the Northwind SQL chatbot project directly on the page.
+
+| Attribute | Details |
+|-----------|---------|
+| **Stack** | React · Vite · Tailwind CSS · Framer Motion · react-icons |
+| **Design** | Asymmetric editorial layout · cursor-following glow effect · grain texture overlay |
+| **Theme System** | Fully separate dark/light color architecture, not just inverted colors |
+| **Interactivity** | 3D tilt-on-hover project cards · embedded chatbot demo with pre-set Q&A and generated SQL |
+| **Sections** | Hero · scrolling tech-stack marquee · featured projects · career timeline · contact |
+| **Deployment** | Vercel, auto-redeployed on every push to this repo |
+| **Repository** | [github.com/akshayy718/akshay-portfolio-site](https://github.com/akshayy718/akshay-portfolio-site) |
+| **Live Demo** | [akshay-portfolio-site-vert.vercel.app](https://akshay-portfolio-site-vert.vercel.app/) |
+
+</details>
 
 <details>
 <summary><b>📊 Universal AI Data Dashboard — Streamlit + Groq + Plotly</b></summary>
@@ -417,7 +437,7 @@ current_focus:
 [![Gmail](https://img.shields.io/badge/Gmail-akshaysanthosh718%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaysanthosh718@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshay%20Santhosh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-santhosh-435499208)
 [![GitHub](https://img.shields.io/badge/GitHub-akshayy718-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshayy718)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20CV%20App-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://cv-screening-app.cfapps.us10-001.hana.ondemand.com/upload.html)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://akshay-portfolio-site-vert.vercel.app/)
 
 </div>
 
