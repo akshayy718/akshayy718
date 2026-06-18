@@ -48,7 +48,7 @@
 
 ## 🧠 About Me
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=akshayy718&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D1117&border_color=7C3AED&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9&hide_border=false"/>
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=akshayy718&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=7C3AED&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9&hide_border=false"/>
 
 AI/ML Engineer and Computer Science graduate with hands-on experience building **production-grade LLM-powered applications**, ML models, and enterprise workflow automations.
 
@@ -355,24 +355,8 @@ Providing IT support and system coordination for a leading UAE heavy infrastruct
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akshayy718&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D1117&border_color=7C3AED&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akshayy718&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=7C3AED&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayy718&layout=compact&langs_count=8&theme=tokyonight&bg_color=0D1117&border_color=7C3AED&title_color=A855F7&text_color=C9D1D9"/>
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=akshayy718&theme=tokyonight&background=0D1117&border=7C3AED&stroke=7C3AED&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=8B949E"/>
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=akshayy718&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
