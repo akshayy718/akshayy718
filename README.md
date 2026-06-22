@@ -210,7 +210,7 @@ Production-style AI chatbot converting natural language business questions into 
 | **Prompt Eng.** | 25+ systematic variations · chain-of-thought prompting · 500+ test queries |
 | **Repository** | [github.com/akshayy718/northwind-chatbot](https://github.com/akshayy718/northwind-chatbot) |
 | **Live Demo** | [huggingface.co/spaces/Akshay718/northwind-chatbot](https://huggingface.co/spaces/Akshay718/northwind-chatbot) |
-
+> ⚠️ **Note:** Hosted on Hugging Face's free tier — if idle, the Space may take 15–30 seconds to wake up on first load. Subsequent queries respond instantly.
 </details>
 
 <details>
