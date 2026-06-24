@@ -134,6 +134,27 @@ AI/ML Engineer and Computer Science graduate with hands-on experience building *
 ## 🚀 Featured Projects
 
 <details>
+<summary><b>🧾 ERP Agentic AI Assistant — LangChain Agent + Live SAP CAP Backend</b></summary>
+<br/>
+
+An LLM agent that performs real business operations — approving, rejecting, and creating purchase orders — against a **live, deployed SAP CAP service**, not a mock backend. Every write action is staged by the LLM but executed by deterministic code, only after explicit user confirmation.
+
+| Attribute | Details |
+|-----------|---------|
+| **Stack** | Python · LangChain · Groq AI · FastAPI · SAP CAP (CDS) · Node.js |
+| **Backend** | Real SAP CAP service deployed to SAP BTP Cloud Foundry — custom data model, business actions, validation logic |
+| **Auth** | OAuth 2.0 client-credentials via XSUAA — the agent fetches and caches its own bearer token |
+| **Safety** | Code-enforced confirmation gate — write actions are proposed by the LLM, executed only by deterministic Python after an explicit "yes" |
+| **Reasoning** | Multi-step agent loop — plans, calls tools, reads results, decides the next step at runtime |
+| **Deployment** | Agent + dashboard on Render · SAP backend on Cloud Foundry — two independently deployed services |
+| **Repository** | [github.com/akshayy718/ERP-AGENTIC-AI-ASSISTANT-](https://github.com/akshayy718/ERP-AGENTIC-AI-ASSISTANT-) |
+| **Live Demo** | [erp-agentic-ai-assistant.onrender.com](https://erp-agentic-ai-assistant.onrender.com) |
+
+> ⚠️ **Note:** Hosted on Render's free tier — first load may take ~30s to wake up. Usage is rate-limited to keep the shared AI quota fair for every visitor.
+
+</details>
+
+<details>
 <summary><b>🌐 Personal Portfolio Site — React + Tailwind + Framer Motion</b></summary>
 <br/>
 
