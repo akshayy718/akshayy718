@@ -22,6 +22,7 @@
 
 <div align="center">
 
+[![ERP Assistant](https://img.shields.io/badge/🧾_Live_App-ERP_Agentic_AI_Assistant-F5A623?style=for-the-badge&logo=sap&logoColor=white)](https://erp-agentic-ai-assistant.onrender.com)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live_Site-FBBF24?style=for-the-badge&logo=vercel&logoColor=black)](https://akshay-portfolio-site-vert.vercel.app/)
 [![Portfolio](https://img.shields.io/badge/🚀_Live_App-CV_Screening_App-A855F7?style=for-the-badge)](https://cv-screening-app.cfapps.us10-001.hana.ondemand.com/upload.html)
 [![Dashboard](https://img.shields.io/badge/📊_Live_App-AI_Data_Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://ai-universal-data-dashboard.streamlit.app/)
