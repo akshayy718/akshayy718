@@ -53,6 +53,7 @@
 
 AI/ML Engineer and Computer Science graduate with hands-on experience building **production-grade LLM-powered applications**, ML models, and enterprise workflow automations.
 
+- 🧾 Built and deployed an **agentic AI assistant** (LangChain + Groq) that runs real approve/reject/create operations against a **live SAP CAP service** I built and deployed myself on Cloud Foundry — with OAuth2/XSUAA auth and a code-enforced confirmation gate, not a mock backend
 - 🤖 Built a **Natural Language SQL Chatbot** integrating Groq's Llama 3.3 70B, LangChain, and RAG on a live SQL Server backend — achieving **91% semantic SQL accuracy** across 500+ test queries
 - ⚙️ Engineered an **end-to-end GL Entry Approval automation** connecting SAP SuccessFactors and Sage X3 via n8n Cloud with OAuth 2.0, audit logging, and error handling for 15+ failure scenarios
 - 🚀 Deployed an **AI-powered CV Screening App** on SAP BTP using SAP CAP, Fiori Elements, Node.js and Groq AI — live on Cloud Foundry
