@@ -23,6 +23,8 @@
 <div align="center">
 
 [![ERP Assistant](https://img.shields.io/badge/🧾_Live_App-ERP_Agentic_AI_Assistant-F5A623?style=for-the-badge&logo=sap&logoColor=white)](https://erp-agentic-ai-assistant.onrender.com)
+![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live_Site-FBBF24?style=for-the-badge&logo=vercel&logoColor=black)](https://akshay-portfolio-site-vert.vercel.app/)
 [![Portfolio](https://img.shields.io/badge/🚀_Live_App-CV_Screening_App-A855F7?style=for-the-badge)](https://cv-screening-app.cfapps.us10-001.hana.ondemand.com/upload.html)
 [![Dashboard](https://img.shields.io/badge/📊_Live_App-AI_Data_Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://ai-universal-data-dashboard.streamlit.app/)
@@ -57,6 +59,7 @@ AI/ML Engineer and Computer Science graduate with hands-on experience building *
 - 🤖 Built a **Natural Language SQL Chatbot** integrating Groq's Llama 3.3 70B, LangChain, and RAG on a live SQL Server backend — achieving **91% semantic SQL accuracy** across 500+ test queries
 - ⚙️ Engineered an **end-to-end GL Entry Approval automation** connecting SAP SuccessFactors and Sage X3 via n8n Cloud with OAuth 2.0, audit logging, and error handling for 15+ failure scenarios
 - 🚀 Deployed an **AI-powered CV Screening App** on SAP BTP using SAP CAP, Fiori Elements, Node.js and Groq AI — live on Cloud Foundry
+- 🌿 Built and deployed **Greenledger AI** — an AI-powered multi-tenant invoice intake, extraction, review, and approval platform using **FastAPI + Groq Vision + Telegram Bot API**, featuring configurable extraction schemas, confidence scoring, audit logging, and human-in-the-loop approval workflows
 - 📊 Building a **Universal AI Data Dashboard** (Streamlit + Plotly + Groq) supporting any file format with natural language data querying
 - 💡 Passionate about building AI systems that **solve real business problems at scale**
 
@@ -79,7 +82,7 @@ AI/ML Engineer and Computer Science graduate with hands-on experience building *
 [![Skills](https://skillicons.dev/icons?i=react,html,css,figma&theme=dark)](https://skillicons.dev)
 
 ### 🔧 Backend & Databases
-[![Skills](https://skillicons.dev/icons?i=nodejs,fastapi,sqlite,postgres&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=nodejs,fastapi,sqlite,postgres,telegram&theme=dark)](https://skillicons.dev)
 
 ### ☁️ Cloud, DevOps & Tooling
 [![Skills](https://skillicons.dev/icons?i=aws,azure,git,github,docker,linux&theme=dark)](https://skillicons.dev)
@@ -154,6 +157,40 @@ An LLM agent that performs real business operations — approving, rejecting, an
 | **Live Demo** | [erp-agentic-ai-assistant.onrender.com](https://erp-agentic-ai-assistant.onrender.com) |
 
 > ⚠️ **Note:** Hosted on Render's free tier — first load may take ~30s to wake up. Usage is rate-limited to keep the shared AI quota fair for every visitor.
+
+</details>
+
+<details>
+<summary><b>🌿 Greenledger AI — Multi-Tenant Invoice Intelligence Platform</b></summary>
+<br/>
+
+AI-powered invoice intake, extraction, review, and approval platform built around configurable document schemas instead of fixed invoice fields. Supports direct web uploads and Telegram-based intake using a shared extraction pipeline with confidence scoring and full audit history.
+
+| Attribute | Details |
+|-----------|---------|
+| **Stack** | Python · FastAPI · Groq Vision · Groq Llama 3.3 · SQLite · Telegram Bot API |
+| **Architecture** | Shared extraction pipeline across web uploads and Telegram intake |
+| **AI Extraction** | Vision-first invoice understanding with configurable extraction fields and confidence scoring |
+| **Multi-Tenant** | Organization isolation with role-based access and org-scoped invoice storage |
+| **Security** | PBKDF2 password hashing · server-side sessions · protected org endpoints |
+| **Workflow** | Human review → correction hints → re-extraction → approval → export |
+| **Automation** | Telegram invoice submission with live routing and validation |
+| **Analytics** | Spend tracking · approval metrics · vendor insights |
+| **Deployment** | Render (live) |
+| **Repository** | [github.com/akshayy718/greenledger-invoice-ai](https://github.com/akshayy718/greenledger-invoice-ai) |
+| **Live Demo** | [greenledger-invoice-ai.onrender.com](https://greenledger-invoice-ai.onrender.com/) |
+
+### Highlights
+
+- Configurable extraction fields (not hardcoded invoice schemas)
+- Vision-first extraction instead of OCR-first architecture
+- Confidence scoring for every extracted field
+- Duplicate invoice detection
+- Audit trail with edit history and approvals
+- Telegram bot + web uploads using one shared backend pipeline
+- Export to Excel / CSV
+
+> ⚠️ Hosted on Render free tier — first load may take ~30–60 seconds due to cold start.
 
 </details>
 
@@ -419,10 +456,10 @@ current_focus:
     - LLM Engineering: QLoRA fine-tuning · RAG pipeline optimization
     - n8n: advanced webhook orchestration · complex branching workflows
 
-  building:
-    - Universal AI Data Dashboard  →  Streamlit + Groq + Plotly
-    - AI-powered CV Screening App  →  SAP CAP + Fiori (live on BTP CF)
-    - GL Entry Approval Automation →  SAP SuccessFactors × Sage X3
+ building:
+  - Greenledger AI → Multi-Tenant Invoice Intelligence Platform
+  - Universal AI Data Dashboard → Streamlit + Groq + Plotly
+  - GL Entry Approval Automation → SAP SuccessFactors × Sage X3
 
   exploring:
     - Agentic AI patterns (tool-use · multi-step reasoning · memory)
