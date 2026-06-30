@@ -138,7 +138,7 @@ AI/ML Engineer and Computer Science graduate with hands-on experience building *
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>🧾 ERP Agentic AI Assistant — LangChain Agent + Live SAP CAP Backend</b></summary>
+<summary><b>⚓ Anchor — ERP Agentic AI Assistant (LangChain Agent + Live SAP CAP Backend)</b></summary>
 <br/>
 
 An LLM agent that performs real business operations — approving, rejecting, and creating purchase orders — against a **live, deployed SAP CAP service**, not a mock backend. Every write action is staged by the LLM but executed by deterministic code, only after explicit user confirmation.
