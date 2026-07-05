@@ -438,16 +438,14 @@ Providing IT support and system coordination for a leading UAE heavy infrastruct
 </div>
 
 ---
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akshayy718&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=7C3AED&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9&cache_seconds=1800"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayy718&layout=compact&langs_count=8&theme=tokyonight&bg_color=0D1117&border_color=7C3AED&title_color=A855F7&text_color=C9D1D9&cache_seconds=1800"/>
-</div>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=akshayy718&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=7C3AED&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akshayy718&layout=compact&langs_count=8&theme=tokyonight&bg_color=0D1117&border_color=7C3AED&title_color=A855F7&text_color=C9D1D9"/>
 
----
+</div>
 
 ## 📈 Contribution Activity
 
