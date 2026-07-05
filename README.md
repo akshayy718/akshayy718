@@ -409,13 +409,15 @@ Providing IT support and system coordination for a leading UAE heavy infrastruct
 | 🏅 Recognition | 📋 Details |
 |----------------|-----------|
 | 🎓 **B.Tech CGPA 8.01** | Computer Science — AI Specialization · Jain University Bengaluru |
+| 🗄️ **DataVault — 9/10 Rated** | Full-stack SaaS · 45 API endpoints · 48/48 tests · SSR · QR generation · fully deployed |
 | 🚀 **SAP BTP Cloud Foundry Deployment** | Independently deployed SAP CAP app to live production environment |
 | 🤖 **91% SQL Accuracy** | LangChain + Groq SQL chatbot across 500+ test queries via chain-of-thought prompting |
 | ⚙️ **15+ Failure Scenarios Handled** | Robust error handling in n8n GL automation with exponential backoff retry |
 | 🔗 **Cross-Platform ERP Integration** | SAP SuccessFactors ↔ Sage X3 via n8n Cloud with OAuth 2.0 audit trail |
+| 🧾 **Live Agentic AI on Real SAP Backend** | LangChain agent runs approve/reject/create on deployed SAP CAP service — not a mock |
+| 🌿 **Multi-Tenant SaaS Architecture** | Greenledger AI — org-level data isolation · PBKDF2 hashing · configurable extraction schemas |
 | 📊 **Universal AI Dashboard** | AI analytics tool supporting Excel · CSV · PDF · Word for any industry |
-| 📐 **Multi-Domain AI Portfolio** | Computer Vision · Time Series · NLP · RAG · Agents · Data Viz · SAP |
-| 🗄️ **DataVault — 9/10 Rated** | Full-stack SaaS · 45 API endpoints · 48/48 tests · SSR · QR generation · fully deployed | 
+| 📐 **Multi-Domain AI Portfolio** | Computer Vision · Time Series · NLP · RAG · Agents · Data Viz · SAP · Full Stack SaaS |
 
 </div>
 
