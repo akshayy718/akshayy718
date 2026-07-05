@@ -21,7 +21,6 @@
 <br/>
 
 <div align="center">
-[![DataVault](https://img.shields.io/badge/🗄️_Live_App-DataVault_SaaS-00E6A7?style=for-the-badge&logo=vercel&logoColor=black)](https://datavault-gilt.vercel.app)
   
 [![ERP Assistant](https://img.shields.io/badge/🧾_Live_App-ERP_Agentic_AI_Assistant-F5A623?style=for-the-badge&logo=sap&logoColor=white)](https://erp-agentic-ai-assistant.onrender.com)
 [![Live App](https://img.shields.io/badge/▶_LIVE_APP-GREENLEDGER_AI-15553D?style=for-the-badge&logo=render&logoColor=white&labelColor=0B0B0B)](https://greenledger-invoice-ai.onrender.com)
