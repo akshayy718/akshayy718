@@ -53,7 +53,6 @@
 <img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=akshayy718&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=7C3AED&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9&hide_border=false"/>
 
 AI/ML Engineer and Computer Science graduate with hands-on experience building **production-grade LLM-powered applications**, ML models, and enterprise workflow automations.
-
 - 🗄️ Built and deployed **DataVault** — a full-stack SaaS platform that turns spreadsheets into QR-powered shareable experiences. Upload a CSV, select rows/columns/cells, generate a real QR code, recipients scan on any phone and see a premium card — with PIN protection, expiry, view limits, live mode, and analytics. **48/48 automated tests passing. Rated 9/10 by a technical reviewer.**
 - 🧾 Built and deployed an **agentic AI assistant** (LangChain + Groq) that runs real approve/reject/create operations against a **live SAP CAP service** I built and deployed myself on Cloud Foundry — with OAuth2/XSUAA auth and a code-enforced confirmation gate, not a mock backend
 - 🤖 Built a **Natural Language SQL Chatbot** integrating Groq's Llama 3.3 70B, LangChain, and RAG on a live SQL Server backend — achieving **91% semantic SQL accuracy** across 500+ test queries
@@ -138,6 +137,30 @@ AI/ML Engineer and Computer Science graduate with hands-on experience building *
 
 ## 🚀 Featured Projects
 
+<details>
+<summary><b>🗄️ DataVault — Spreadsheet-to-QR SaaS Platform (Next.js 14 + FastAPI + PostgreSQL)</b></summary>
+<br/>
+
+A full-stack SaaS product that transforms spreadsheets into premium QR-powered shareable experiences. Upload a CSV, select specific rows, columns, cells, or ranges, configure security and limits, and generate a real scannable QR code. Recipients scan on any phone and see a beautifully designed card — no login required.
+
+| Attribute | Details |
+|-----------|---------|
+| **Stack** | Next.js 14 · TypeScript · Tailwind CSS · Framer Motion · FastAPI · SQLAlchemy · PostgreSQL · Alembic |
+| **AI** | Groq AI for natural language filtering · Duplicate detection · AI-powered suggestions from real data |
+| **Auth** | JWT tokens · bcrypt hashing · auto-refresh on 401 · session persistence across navigation |
+| **Sharing** | PIN protection · Expiry dates · Max view limits · Snapshot vs Live mode · QR code generation (PNG) |
+| **Frontend** | 6 screens · SSR recipient page · responsive layout · toast notifications · real-time preview |
+| **Backend** | 45 API endpoints · 9 modules · Alembic migrations · GZip compression · pool_pre_ping for reliability |
+| **Testing** | 48/48 automated backend tests passing |
+| **Security** | Cross-user data isolation · CORS production-hardened · API docs hidden in production |
+| **Deployment** | Frontend: Vercel · Backend: Render (UptimeRobot monitored) · Database: PostgreSQL |
+| **Repository** | [github.com/akshayy718/datavault](https://github.com/akshayy718/datavault) |
+| **Live Demo** | [datavault-gilt.vercel.app](https://datavault-gilt.vercel.app) |
+
+> ⚠️ Hosted on Render's free tier — first load may take ~30s to wake up. Subsequent loads are instant.
+
+</details>
+ 
 <details>
 <summary><b>⚓ Anchor — ERP Agentic AI Assistant (LangChain Agent + Live SAP CAP Backend)</b></summary>
 <br/>
