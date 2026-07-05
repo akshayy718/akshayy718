@@ -54,6 +54,7 @@
 
 AI/ML Engineer and Computer Science graduate with hands-on experience building **production-grade LLM-powered applications**, ML models, and enterprise workflow automations.
 
+- 🗄️ Built and deployed **DataVault** — a full-stack SaaS platform that turns spreadsheets into QR-powered shareable experiences. Upload a CSV, select rows/columns/cells, generate a real QR code, recipients scan on any phone and see a premium card — with PIN protection, expiry, view limits, live mode, and analytics. **48/48 automated tests passing. Rated 9/10 by a technical reviewer.**
 - 🧾 Built and deployed an **agentic AI assistant** (LangChain + Groq) that runs real approve/reject/create operations against a **live SAP CAP service** I built and deployed myself on Cloud Foundry — with OAuth2/XSUAA auth and a code-enforced confirmation gate, not a mock backend
 - 🤖 Built a **Natural Language SQL Chatbot** integrating Groq's Llama 3.3 70B, LangChain, and RAG on a live SQL Server backend — achieving **91% semantic SQL accuracy** across 500+ test queries
 - ⚙️ Engineered an **end-to-end GL Entry Approval automation** connecting SAP SuccessFactors and Sage X3 via n8n Cloud with OAuth 2.0, audit logging, and error handling for 15+ failure scenarios
