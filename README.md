@@ -158,7 +158,7 @@ A full-stack SaaS product that transforms spreadsheets into premium QR-powered s
 | **Repository** | [github.com/akshayy718/datavault](https://github.com/akshayy718/datavault) |
 | **Live Demo** | [datavault-gilt.vercel.app](https://datavault-gilt.vercel.app) |
 
-> ⚠️ Hosted on Render's free tier — first load may take ~30s to wake up. Subsequent loads are instant.
+> ⚠️ **Hosting note:** Free tier — first load ~30s cold start. No-PIN shares load instantly (SSR). PIN-protected shares take 20-30s total (two server round-trips — free-tier limitation, not a code issue).
 
 </details>
  
