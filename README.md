@@ -415,6 +415,7 @@ Providing IT support and system coordination for a leading UAE heavy infrastruct
 | 🔗 **Cross-Platform ERP Integration** | SAP SuccessFactors ↔ Sage X3 via n8n Cloud with OAuth 2.0 audit trail |
 | 📊 **Universal AI Dashboard** | AI analytics tool supporting Excel · CSV · PDF · Word for any industry |
 | 📐 **Multi-Domain AI Portfolio** | Computer Vision · Time Series · NLP · RAG · Agents · Data Viz · SAP |
+| 🗄️ **DataVault — 9/10 Rated** | Full-stack SaaS · 45 API endpoints · 48/48 tests · SSR · QR generation · fully deployed | 
 
 </div>
 
